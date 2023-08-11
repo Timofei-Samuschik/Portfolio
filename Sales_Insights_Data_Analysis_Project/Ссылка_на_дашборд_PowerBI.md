@@ -1,0 +1,1 @@
+:bar_chart: [Ссылка на дашборд в PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZDQzYmRhNjMtYWE2ZC00YWE3LWE0NWEtYmEwM2U3MDA4MzkzIiwidCI6ImM4YzY5YWFlLTMyYmEtNDNkMS05ZjU5LWY5OGM5NWZiMjI3YiIsImMiOjl9) :bar_chart:
